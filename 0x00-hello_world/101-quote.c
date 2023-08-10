@@ -1,7 +1,8 @@
 #include <unistd.h>
 
-/** *  * main - Prints
- *     * Return: Always 1.
+/*
+ * main - Prints
+ * Return: Always 1.
 */
 int main(void)
 {
